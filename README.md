@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [GitLab搭建](https://www.huwenqiang.cn/articles/2020/11/08/1604807506063.html)
 * [markdown中数学公式字体大小的方法](https://www.huwenqiang.cn/articles/2020/10/22/1603372559446.html)
 * [我在 GitHub 上的开源项目](https://www.huwenqiang.cn/my-github-repos)
 * [申请并自动续费阿里云上的https泛域名证书](https://www.huwenqiang.cn/articles/2019/03/24/1553409497931.html)
