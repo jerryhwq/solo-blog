@@ -2,7 +2,7 @@
 胡文强的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center"></h4>
 <p align="center"><a title="胡文强的个人博客" target="_blank" href="https://github.com/jerryhwq/solo-blog"><img src="https://img.shields.io/github/last-commit/jerryhwq/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/jerryhwq/solo-blog"><img src="https://img.shields.io/github/repo-size/jerryhwq/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Zinit配置](https://www.huwenqiang.cn/articles/2021/10/02/1618970594540.html)
 * [GitLab搭建](https://www.huwenqiang.cn/articles/2020/11/08/1604807506063.html)
 * [markdown中数学公式字体大小的方法](https://www.huwenqiang.cn/articles/2020/10/22/1603372559446.html)
 * [我在 GitHub 上的开源项目](https://www.huwenqiang.cn/my-github-repos)
