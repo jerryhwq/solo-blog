@@ -1,4 +1,4 @@
-<p align="center"><img alt="胡文强的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="胡文强的个人博客" src="https://www.huwenqiang.cn/favicon.ico"></p><h2 align="center">
 胡文强的个人博客
 </h2>
 
@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [xLua内存管理与回收的简单理解](https://www.huwenqiang.cn/articles/2023/08/10/1691646605632.html)
+* [xLua内存管理的简单理解](https://www.huwenqiang.cn/articles/2023/08/10/1691646605632.html)
 * [Unicode字符编码组合](https://www.huwenqiang.cn/articles/2022/08/31/1661951654361.html)
 * [Zinit配置](https://www.huwenqiang.cn/articles/2021/10/02/1618970594540.html)
 * [GitLab搭建](https://www.huwenqiang.cn/articles/2020/11/08/1604807506063.html)
