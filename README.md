@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [RP2040 点亮 WS2812](https://www.huwenqiang.cn/articles/2024/12/01/1733068589790.html)
 * [AWS 访问 Google Cloud 的 Workload Identity Federation](https://www.huwenqiang.cn/articles/2024/11/28/1732776295379.html)
 * [xLua内存管理的简单理解](https://www.huwenqiang.cn/articles/2023/08/10/1691646605632.html)
 * [Unicode字符编码组合](https://www.huwenqiang.cn/articles/2022/08/31/1661951654361.html)
