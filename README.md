@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用nginx的acme模块申请SSL证书](https://www.huwenqiang.cn/articles/2026/01/11/1768139357068.html)
 * [使用AWS服务搭建Gitea服务器](https://www.huwenqiang.cn/articles/2026/01/11/1768108985695.html)
 * [RP2040 点亮 WS2812](https://www.huwenqiang.cn/articles/2024/12/01/1733068589790.html)
 * [AWS 访问 Google Cloud 的 Workload Identity Federation](https://www.huwenqiang.cn/articles/2024/11/28/1732776295379.html)
